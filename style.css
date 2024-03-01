@@ -185,6 +185,5 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  transition: background-color: #dadada;
-  transition: ease;
+  background-color: #dadada;
 } 
