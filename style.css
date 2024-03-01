@@ -2,3 +2,189 @@
   
 }
 
+/* Font styles */
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+/* end of font */
+
+.g-logo-icon {
+  width: 42px;
+  height: 42px;
+}
+
+.grover-icon {
+  width: 107px;
+  height: 21px;
+}
+
+#header-container {
+  width: 1235px;
+  height: 711px;
+  top: 32px;
+  left: 135px;
+
+}
+
+#header-top {
+  width: 80%;
+  margin: 50px 150px 0 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo-header {
+  display: flex;
+  align-items: center;
+}
+
+/* Estilos básicos para la barra de navegación */
+
+nav {
+  margin: 9px 0 9px 0;
+  width: 312px;
+  height: 24px;
+
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  
+
+}
+  
+nav ul {
+  width: 312px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+nav ul li a {
+  /* display: block;
+  text-align: center; */
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #4D4D4D;
+}
+
+#home-nav {
+  color: #F55253;
+}
+
+nav ul li a:hover {
+  transition: background-color: #dadada;
+  transition: ease;
+} 
